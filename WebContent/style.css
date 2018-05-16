@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+#login{
+	margin-left: 20px;
+	margin-right: 90px;
+	width: 100px;
+}
+
+#update{
+	margin-left: 20px;
+	margin-right: 90px;
+	width: 200px;
+}
+
+#insert{
+	margin-left: 20px;
+	margin-right: 110px;
+	width: 200px;
+}
